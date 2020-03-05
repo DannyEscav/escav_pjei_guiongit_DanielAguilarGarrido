@@ -4598,6 +4598,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Canvas
       objectReference: {fileID: 0}
+    - target: {fileID: 6818602312809485490, guid: 5d73c555e4c99f74a9059c0def92d38d,
+        type: 3}
+      propertyPath: m_Text
+      value: SA MATAO PACO
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5d73c555e4c99f74a9059c0def92d38d, type: 3}
 --- !u!1 &3474835551385798720 stripped
